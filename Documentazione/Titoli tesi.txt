@@ -1,0 +1,12 @@
+"Implementazione della CPU Z80 su FPGA"
+	Pro :	Titolo ampio, tutto quello che sta oltre l'implementazione dello Z80 è già compreso.
+	Contro:	Richiede che riesca a implementare la CPU senza intoppi
+
+"Implementazione di una calcolatrice con CPU Z80 su FPGA"
+	Pro:	Permette di sorvolare sull'implementazione dello Z80, nel caso non riesca, e sposta l'attenzione sulla calcolatrice che piò essere anche semplice come la Busicom.
+	Contro:	Sposta l'attenzione su qualcosa di poco scenico come la calcolatrice rispetto allo Z80
+
+"Implementazione su FPGA di un sistema di calcolo basato sulla CPU Z80"
+	Pro:	Stesso del precedente.
+		Sorvola sull'implementazione di una semplice calcolatrice.
+	Contro:	E' fin troppo generico. Rischia di far credere che abbia fatto ben più di una semplice calcolatrice.
